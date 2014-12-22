@@ -35,12 +35,26 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Londini status pacatus: or, Londons peaceable estate Exprest in sundry triumphs, pageants, and shewe
+
+1. To the Right Honorable Henry Garway, Lord Maior of this Famous Metropolis; London.
+
 #####Body#####
+
+1. Londini Status Pacatus: or Londons Peaceable Estate.
+
+    _ The first Shew by water.
 Nilus.NIlus an ancient River, knowne to excellAmongst those foure, (which before Adam fellWatred the
-1. His speech as followeth.
-Orpheus.I Nquire from all antiquity, 'tis saidThat when Apolloes Son, (I Orpheus) plaidVpon my HarpeMedea.THus doth the daughter of the Colchian King,Her Husband Jason home in Triumph bring,After his 
-1. The last Speech.
+    _ The second Shew, but the first by Land
+
+      * His speech as followeth.
+
+    _ The third show
+Orpheus.I Nquire from all antiquity, 'tis saidThat when Apolloes Son, (I Orpheus) plaidVpon my Harpe
+    _ The fourth Show
+Medea.THus doth the daughter of the Colchian King,Her Husband Jason home in Triumph bring,After his 
+    _ The fifth Show.
+
+      * The last Speech.
 
 **Types of content**
 
